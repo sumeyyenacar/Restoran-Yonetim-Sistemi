@@ -1,0 +1,5 @@
+*********** Payment List (2022_01_16) ***********
+Order ID:1000  StaffName:Admin Java                      Work time:0,00  Pay:100,00
+Order ID:1111  StaffName:Elif Arslan                     Work time:0,00  Pay:0,00 
+-------------------------------------------------------
+Total payment:$100.0(2)

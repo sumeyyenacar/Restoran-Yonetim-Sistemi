@@ -1,0 +1,13 @@
+101,Pizza,25.0,1
+102,Makarna,26.0,1
+103,Hamburger,28.0,1
+104,Adana Durum,22.0,1
+200,Kola,5.0,2
+201,Ayran,5.0,2
+202,Sprite,4.5,2
+203,Cay,4.0,2
+302,Soda,7.0,2
+303,Kahve,10.0,2
+304,Meyveli Pata,20.0,4
+401,Tiramisu,20.0,4
+402,Dondurma,17.0,4
